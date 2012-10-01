@@ -1,0 +1,156 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head> 
+
+
+
+<title>Tumblr-Template</title>
+<meta http-equiv="Content-Language" content="German" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+<link rel="shortcut icon" href="feinheit.ico" type="image/x-icon" /> 
+
+
+</head>
+
+
+
+<body>
+<div align="center">
+<div id="search">
+    <form target="_blank" method="GET" action="http://www.google.ch/search">
+    <table>
+        <tr>
+            <td>
+                <input TYPE="text" name="q" size="17" maxlength="80">
+                <input TYPE="hidden" name="hl" value="de">
+            </td>
+        </tr>
+    </table>
+    </form>
+</div>
+</div>
+<div id="wrap">
+
+
+<div id="header">
+    <h1>BLOG</h1>
+    <form  method="get" action="">
+    </form>
+</div>
+
+
+<div class="left">     
+  
+    <h4>Kategorie Titel</h4>     
+    <img src="Datum.jpg" style="margin-left:-90px;margin-top: -8px"></br>
+    <img src="Nachricht.jpg" style="margin-left:-75px;margin-top: -5px">
+  
+    <h2>TITEL SCHNUPPER</h2></br>
+
+    <div class="articles">
+
+
+
+    
+    <img src="Titelbild.jpg" style="margin-left: 0px; margin-top: 0px"></br>
+
+
+    <br>Leider sind die zwei Wochen Schnupperlehre bei der Feinheit schon fast zu Ende. Ich Jonathan Geissberger (16), habe in den letzten zwei Wochen eine Schnupperlehre im guten Feinschmeckerbüro absolviert.</br>Ich habe viel neues dazugelernt.</br>
+Anfangs der letzten Woche habe ich mich mit dem Thema Fremd beschäftigt, da dies eine Prüfungsaufgabe an dem gestalterischen Vorkurses war. Die Prüfung absolviert ich am 20.April. Ich machte mir viele Gedanken zu diesem Thema, wie zum Beispiel was bedeutet Fremd für mich und was für andere. Die Idee war ein T-Shirt zu dem Thema zu entwerfen.
+<hr style= width: 100%; color: #FF0000; size: 1.5;>
+<h7>The awards for design, creativity and innovation on the Internet, which recognize and and promote the best web designers in the world.</h7> <h9>Read more</h9>
+   
+    
+    
+    </div>
+    <div class="datum">
+       
+    <ul>
+        <li>24</li>
+        <li>09</li>
+
+    </ul>
+    </div> 
+    
+    <div class="datum2">
+
+    <ul>
+        <li>2012</li>
+    </ul>
+    </div>
+    
+<div class="nachricht">
+    <p>20</p>
+</div>
+        
+</div>
+
+<div class="right">
+    <h2>Tags</h2>
+<hr style="margin-left: -40px; width: 227px; border: none; border-bottom: 1px dotted grey" />
+
+
+
+
+    <ul>
+        <li><a href="#"><h5>abstimmung</h5></a></li> 
+        <li><a href="#"><h5>actionscript</h5> <h6>adobe</a></li> 
+        <li><a href="#"><h5>animation</h5> <h5>apple</h5> <h6>as3</h6></a></li> 
+        <li><a href="#"><h5>ausstellung</h5> <h5>berlin</h5></a></li>
+        <li><a href="#"><h6>bike</h6> <h6>Locher</h6> <h6>cartoon</h6> <h5>china</h5></a></li> 
+        <li><a href="#"><h5>costa</h5> <h6>Dienerstrasse</h6> <h6>Donation</h6></a></li> 
+        <li><a href="#"><h6>experiment</h6> <h5>facebook</h5></a></li> 
+        <li><a href="#"><h6>fairtrade</h6> <h6>fake</h6> <h6>fashion</h6></a></li> 
+        <li><a href="#"><h8>feinheit</h8> <h5>feinheit</h5></a></li>    
+        <li><a href="#"><h5>tv</h5> <h5>ferien</h5> <h5>film</h5> <h5>flash</h5></a></li>
+        <li><a href="#"><h5>fotografie</h5> <h6>fun</h6> <h6>Future</h6></a></li>
+        <li><a href="#"><h5>game</h5> <h6>Global Warming</h6></a></li>
+        <li><a href="#"><h5>google</h5> <h6>gratis</h6> <h6>greenpeace</h6></a></li>
+        <li><a href="#"><h5>illustration</h5> <h6>Infrastruktur</h6></a></li>
+        <li><a href="#"><h6>internet</h6> <h5>android</h5> <h6>kampagne</h6></a></li>
+        <li><a href="#"><h6>kino</h6> <h6>krieg</h6> <h6>kritik</h6> <h5>kunst</h5></a></li>
+        <li><a href="#"><h5>leopard</h5> <h6>Markus Bühler</h6></a></li>
+        <li><a href="#"><h5>Messe</h5> <h6>movie</h6> <h6>mp3</h6></a></li>
+        <li><a href="#"><h5>musik</h5> <h6>online</h6> <h6>openair</h6> <h6>OSX</h6></a></li>
+        <li><a href="#"><h5>party</h5> <h5>politik</h5> <h6>praktikum</h6></a></li>
+        <li><a href="#"><h6>programmierung</h6> <h6>radio</h6> <h6>roti</h6> <h6>sehroiber</h6></a><li>
+        <li><a href="#"><h5>serena</h5> <h6>Server</h6> <h6>shop</h6> <h6>spass</h6></a></li>
+        <li><a href="#"><h6>Spiel</h6> <h6>Stolze</h6> <h6>Openair</h6> <h6>streetart</h6></a></li>
+        <li><a href="#"><h6>sunnebuebe</h6> <h6>tibits</h6></a></li>
+        <li><a href="#"><h5>Umweltschutz</h5> <h6>velo</h6></a></li>
+    </ul>
+</div>
+
+<div class="right2">
+    <h2>ARCHIV</h2>
+    <hr style="margin-left: -40px; width: 227px; border: none; border-bottom: 1px dotted grey" />
+
+
+    
+    <ul>
+        <li><a href="#">AUGUST 2006</a></li> 
+        <li><a href="#">OKTOBER 2006</a></li> 
+        <li><a href="#">DEZEMBER 2006</a></li> 
+        <li><a href="#">APRIL 2007</a></li>
+        <li><a href="#">MAI 2007</a></li> 
+        <li><a href="#">JULI 2007</a></li> 
+        <li><a href="#">AUGUST 2007</a></li> 
+        <li><a href="#">SEPTEMBER 2007</a></li>
+        <li><a href="#">OKTOBER 2007</a></li> 
+        <li><a href="#">NOVEMBER 2007</a></li> 
+        <li><a href="#">DEZEMBER 2007</a></li> 
+
+    </ul>
+</div>
+
+
+<!--
+<div id="footer">
+    Diellor Dielli, Feinheit GmbH 2012 
+</div>
+-->
+</div>
+
+</body>
+</html>
